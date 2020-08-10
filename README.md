@@ -1,10 +1,5 @@
 # AddressBook App
 
-- [General info](#general-info)
-- [Technologies](#technologies)
-- [Setup](#installation)
-- [Building & Deploying](#building)
-
 ### General info
 
 This project is a simple application where you can create and delete contact and see all contacts.
@@ -14,7 +9,6 @@ This project is a simple application where you can create and delete contact and
 Project is created with:
 
 - React
-
 
 ### Installation and Setup Instructions
 
