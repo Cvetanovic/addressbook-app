@@ -2,8 +2,8 @@
 
 - [General info](#general-info)
 - [Technologies](#technologies)
-- [Setup](#installation-&-setup)
-- [Building & Deploying](#building-&-deploying)
+- [Setup](#installation)
+- [Building & Deploying](#building)
 
 ### General info
 
